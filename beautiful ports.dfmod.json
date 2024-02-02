@@ -1,0 +1,16 @@
+{
+    "ModTitle": "Beautiful Ports of Daggerfall",
+    "ModVersion": "0.1",
+    "ModAuthor": "carademono, Wayton",
+    "ContactInfo": "Lysandus' Tomb Discord server",
+    "DFUnity_Version": "1.0.0",
+    "ModDescription": "Adds ports to the cities and towns of the Iliac Bay.",
+    "GUID": "0f07eb43-234a-4481-8cc8-c21eb8f64145",
+    "Files": [
+        "Assets/Game/Mods/beautiful-ports/WorldData/WALLAA06.PORTE.RMB.json",
+        "Assets/Game/Mods/beautiful-ports/WorldData/WALLAA06.PORTW.RMB.json",
+        "Assets/Game/Mods/beautiful-ports/WorldData/WALLAA06.PORTE2.RMB.json",
+        "Assets/Game/Mods/beautiful-ports/WorldData/WALLAA10.PORT.RMB.json",
+        "Assets/Game/Mods/beautiful-ports/WorldData/location-17-1239.json"
+    ]
+}
